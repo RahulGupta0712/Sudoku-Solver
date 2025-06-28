@@ -15,7 +15,7 @@ h1 {
 }
 
 body {
-    background-image: url('https://files.123freevectors.com/wp-content/original/116398-abstract-dark-blue-blurred-bokeh-background-design.jpg');
+    background-image: url('./background.png');
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
